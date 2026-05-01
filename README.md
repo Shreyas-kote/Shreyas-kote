@@ -1,51 +1,38 @@
 <div align="center">
 
-```
-███████╗██╗  ██╗██████╗ ███████╗██╗   ██╗ █████╗ ███████╗
-██╔════╝██║  ██║██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝
-███████╗███████║██████╔╝█████╗   ╚████╔╝ ███████║███████╗
-╚════██║██╔══██║██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║╚════██║
-███████║██║  ██║██║  ██║███████╗   ██║   ██║  ██║███████║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
-```
+<h1>Hi, I'm Shreyas Kote 👋</h1>
 
-### `< Hacking the future, one line at a time />`
+<p><em>Cybersecurity Enthusiast &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Student & Freelancer</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%9A%80;Ethical+Hacker+in+Training+%F0%9F%92%80;CTF+Competitor+%F0%9F%9A%A9;Student+%7C+Freelancer+%7C+Builder)](https://git.io/typing-svg)
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Shreyas-kote"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Shreyas-kote&label=Profile%20Views&color=00ff41&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shreyas-kote&style=flat-square&color=0A66C2" alt="profile views" />
 
 </div>
 
 ---
 
-## `> whoami`
+## About Me
 
-```bash
-$ cat /etc/profile/shreyas.conf
-```
+I'm a student and freelancer from Pune, India, working at the intersection of **cybersecurity** and **full stack development**. I enjoy breaking things ethically, building things thoughtfully, and learning something new every day.
 
-```yaml
-Name        : Shreyas Kote
-Location    : Pimpri, Maharashtra, India 🇮🇳
-Role        : Student & Freelancer
-Focus       : Cybersecurity + Full Stack Development
-Status      : [ ██████████░░ ] Leveling Up...
-Quote       : "In a world full of script kiddies, be the exploit developer."
-```
-
-> 🔐 I live at the intersection of **breaking things** and **building things**. By day I write clean code; by night I try to break it. Passionate about ethical hacking, web app security, and crafting full-stack experiences that are both functional and formidable.
+- 🔐 Passionate about ethical hacking, penetration testing, and web application security
+- 🌐 Building full stack web applications with modern frameworks and databases
+- 🏁 Competed in CTF challenges including PicoCTF and college-level competitions
+- 🚀 Always exploring new tools, techniques, and technologies
 
 ---
 
-## `> skill_tree --list-all`
-
-### 💻 Programming Languages
+## Programming Languages
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,11 +42,11 @@ Quote       : "In a world full of script kiddies, be the exploit developer."
 
 ---
 
-### 🌐 Full Stack Arsenal
+## Full Stack
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -71,119 +58,70 @@ Quote       : "In a world full of script kiddies, be the exploit developer."
 
 ---
 
-### 🔓 Cybersecurity Toolkit
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║              SHREYAS'S HACKING TOOLKIT v2.0                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  [RECONNAISSANCE]    Nmap · Nessus · Wireshark              ║
-║  [EXPLOITATION]      Metasploit · Hydra · SQLmap            ║
-║  [WEB SECURITY]      Burp Suite · OWASP Top 10              ║
-║  [PASSWORD ATTACKS]  John the Ripper · Hydra                ║
-║  [WIRELESS]          Aircrack-ng                            ║
-║  [ANALYSIS]          CyberChef                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## Cybersecurity Toolkit
 
 <div align="center">
 
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E6?style=for-the-badge&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-333333?style=for-the-badge&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-4A90D9?style=for-the-badge&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
 
 ---
 
-## `> ./interests --verbose`
+## Areas of Interest
 
-```python
-interests = {
-    "🔴 Red Team"   : ["Penetration Testing", "Exploit Development", "Privilege Escalation"],
-    "🌐 Web Sec"    : ["XSS", "SQLi", "IDOR", "CSRF", "Broken Auth"],
-    "🏁 CTF"        : ["PicoCTF", "College CTF Competitions", "Web & Crypto Challenges"],
-    "📡 Network"    : ["Traffic Analysis", "Packet Sniffing", "Wireless Security"],
-    "🏗️ Building"   : ["Full Stack Apps", "Secure APIs", "Real-time Systems"],
-}
-```
+| Domain | Focus |
+|---|---|
+| 🔴 Ethical Hacking & Pentesting | Vulnerability assessment, exploitation, privilege escalation |
+| 🌐 Web Application Security | OWASP Top 10, XSS, SQLi, IDOR, broken authentication |
+| 📡 Network Security | Traffic analysis, packet inspection, wireless security |
+| 🏁 CTF Competitions | PicoCTF, college-level competitions, web & crypto challenges |
 
 ---
 
-## `> github_stats --user Shreyas-kote`
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyas-kote&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-kote&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyas-kote&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-kote&layout=compact&hide_border=true&theme=default" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shreyas-kote&theme=matrix&hide_border=true&background=0D1117&fire=00FF41&ring=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shreyas-kote&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## `> ctf_history --scorecard`
-
-```
-┌─────────────────────────────────────────────────────┐
-│               CTF BATTLE RECORD                     │
-├─────────────────────────────────────────────────────┤
-│  🏁 PicoCTF           → Web, Crypto, Forensics      │
-│  🎓 College CTFs      → Competed & Collaborated     │
-│  🎯 Focus Areas       → Web Exploitation, OSINT     │
-│  🧠 Current Goal      → Sharpen Pentest Skills      │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## `> connect --handshake`
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-kote)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreyas_kote)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyas-kote)
+I'm open to freelance projects, collaborations, and cybersecurity discussions. Feel free to reach out!
 
-</div>
+<br/>
 
----
-
-## `> fortune`
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   "The quieter you become, the more you are able to       ║
-║    hear." — Kali Linux motto                              ║
-║                                                           ║
-║        [ Stay curious. Stay ethical. Stay dangerous. ]    ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-![Snake animation](https://github.com/Shreyas-kote/Shreyas-kote/blob/output/github-contribution-grid-snake-dark.svg)
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/Shreyas-kote"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-
-```bash
-$ echo "Thanks for visiting! Don't forget to ⭐ if you like what you see."
-Thanks for visiting! Don't forget to ⭐ if you like what you see.
-```
-
-*Last updated by `./auto-commit.sh` — Shreyas-kote*
-
+  <sub>⭐ If you find my work interesting, consider starring my repositories!</sub>
 </div>
